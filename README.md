@@ -1,4 +1,4 @@
-# RAY_CASTING_ON_C++
+# RAY_CASTING
 C++ and SDL 2.0
 
 My experiments with 3D graphics.
